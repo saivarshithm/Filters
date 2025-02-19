@@ -1,0 +1,11 @@
+LTspice 24.0.12 for Windows
+Circuit: * D:\Sunny Files\academics\2nd Year\Courses\EE226 - Analog Electronic Circuits\Lab\LTspice\active filter.asc
+Start Time: Sun Nov 10 18:24:35 2024
+solver = Normal
+Maximum thread count: 8
+tnom = 27
+temp = 27
+method = modified trap
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 0.206 seconds.
+
